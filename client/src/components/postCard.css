@@ -1,0 +1,16 @@
+.post-card .primary .content {
+  -webkit-mask-image: linear-gradient(rgb(5, 9, 5) 175px, transparent 250px);
+  mask-image: linear-gradient(rgb(3, 12, 2) 175px, transparent 250px);
+}
+
+.post-card .secondary .title {
+  -webkit-mask-image: linear-gradient(rgb(2, 7, 2) 70px, transparent 125px);
+  mask-image: linear-gradient(black 70px, transparent 125px);
+}
+
+html {
+  overflow-y: scroll;
+}
+
+
+
