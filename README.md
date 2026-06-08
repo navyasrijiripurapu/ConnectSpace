@@ -27,26 +27,35 @@ Connect Space is a social media platform that allows users to connect, share pos
 - JWT Authentication
 
 ## Project Structure
+
 Connect-Space
+
 │
+
 ├── client
+
 │   ├── public
+
 │   ├── src
+
 │
+
 ├── controllers
+
 ├── middleware
+
 ├── models
+
 ├── routes
+
 ├── server.js
+
 ├── socketServer.js
+
 └── package.json
 
 
-## Installation
 
-
-
-git clone https://github.com/navyasrijiripurapu/connect-space.git
 
 ### Backend Setup
 npm install
